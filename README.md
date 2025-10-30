@@ -41,7 +41,7 @@ The interactive **Power BI dashboard** provides a detailed look into:
 ---
 
 ## 📸 Dashboard Preview  
-
+![Survery Project](https://github.com/user-attachments/assets/082f559b-d4da-4148-b01a-666d8f21fe4c)
 
 ---
 
